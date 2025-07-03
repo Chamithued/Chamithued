@@ -55,14 +55,12 @@
 </div>
 <br><br>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Chamithued/&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chamithued&show_icons=true&theme=radical" alt="Chamithu's GitHub stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Chamithued&theme=radical&hide_border=false" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamithued&layout=compact&theme=radical" />
 </div>
 
 ###
