@@ -3,8 +3,8 @@
 
 <p align="left">
   🎓 Passionate Undergraduate @ <strong>SLIIT</strong> <br>
-  💻 Full Stack Developer — Turning ☕ + 💡 into awesome apps <br>
-  🚀 Always ready to launch into new tech adventures <br>
+  💻 Undergraduate Full Stack Developer — Turning ☕ + 💡 into awesome apps <br>
+  🚀 Always excited to dive into new tech and grow as a student developer <br>
   🌱 Lifelong Learner — Eager to Grow Every Day <br>
 </p>
 
@@ -58,7 +58,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Chamithued&show_icons=true&theme=radical" alt="Chamithu's GitHub stats" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=Chamithued&theme=radical&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=Chamithued&theme=highcontrast&hide_border=false" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chamithued&layout=compact&theme=radical" />
 </div>
